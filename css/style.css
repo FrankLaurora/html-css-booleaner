@@ -46,3 +46,25 @@ ul {
     list-style-position: inside;
     padding-left: 0;
 }
+
+table {
+    border-spacing: 0;
+    width: 100%;
+}
+
+.narrow-column {
+    width: 25%;
+}
+
+.wide-column {
+    width: 50%;
+}
+
+.white-on-light-blue {
+    color: white;
+    background-color: #20A9E5;
+}
+
+.lighter-blue-background {
+    background-color: #B1E5F2;
+}
