@@ -1,0 +1,19 @@
+.container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+header {
+    height: 100px;
+    background-image: url('../img/pattern.png');
+    background-color: #4EA0FF;
+    background-size: 40%;
+    position: relative;
+}
+
+#logo {
+    width: 20%;
+    position: absolute;
+    bottom: 5%;
+    left: 0.5%;
+}
