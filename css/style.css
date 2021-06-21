@@ -1,5 +1,5 @@
 .container {
-    width: 60%;
+    width: 70%;
     margin: 0 auto;
 }
 
@@ -16,4 +16,24 @@ header {
     position: absolute;
     bottom: 5%;
     left: 0.5%;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.gray-text {
+    color: gray;;
+}
+
+.light-blue-text {
+    color: #20A9E5;
+}
+
+.smaller-text {
+    font-size: 0.7em;
 }
