@@ -68,3 +68,23 @@ table {
 .lighter-blue-background {
     background-color: #B1E5F2;
 }
+
+.footer-img{
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 10px;
+    color: white;
+    padding: 10px 0 0 10px;
+    font-size: 1.5em;
+}
+
+#footer-img-1 {
+    background-image: url('../img/monitor.jpg');
+}
+
+#footer-img-2 {
+    background-image: url('../img/graph.jpg');
+}
