@@ -37,3 +37,12 @@ h1 {
 .smaller-text {
     font-size: 0.7em;
 }
+
+.highlighted-text {
+    background-color: yellow;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
